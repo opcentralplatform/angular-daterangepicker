@@ -21,7 +21,7 @@
   "dependencies": {
     "angular": "^1.2.17",
     "bootstrap": "^3.0.0",
-    "bootstrap-daterangepicker": "https://github.com/vortilla/daterangepicker.git#master"
+    "bootstrap-daterangepicker": "https://github.com/opcentralplatform/daterangepicker.git#master"
   },
   "devDependencies": {
     "angular-messages": "^1.2.17"
